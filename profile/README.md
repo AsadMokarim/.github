@@ -76,8 +76,9 @@
 
 | Project | Description |
 |---|---|
+| [ConveyorGuard](YOUR_CONVEYORGUARD_REPOSITORY_LINK) | An IoT-based conveyor belt monitoring and control system designed to improve industrial safety and operational visibility. |
 | [Jhatpat](https://github.com/InnoverseAMU/Jhatpat) | A desktop utility concept for everyday file operations and productivity tasks. |
-| [SevaSetu](https://github.com/AsadMokarim/SevaSetu) | Bridging the gap between ground-level needs and volunteer action through Gemini AI and Trust-based Decentralization. |
+| [SevaSetu](https://github.com/AsadMokarim/SevaSetu) | Bridging the gap between ground-level needs and volunteer action through Gemini AI and trust-based decentralization. |
 
 *Explore my repositories for more projects and experiments.*
 
@@ -88,8 +89,11 @@
   <a href="https://github.com/AsadMokarim">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/asadmokarim/" >
+  <a href="https://www.linkedin.com/in/asadmokarim/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gq9472@myamu.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
